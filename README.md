@@ -1,8 +1,7 @@
 # PrismWpfViewModel
 
 #### This project is a set of ViewModel base class designed for WPF , and the whole project is based on Prism. 
-In this project, view model is considered as a box for Model instance, and also a adapter between Model and View.  
-
+In this project, view model is considered as a box for Model instance, and also a adapter between Model and View.   
 From the "box" perspective, 
 the ViewModel should allow replacement for the content of the "box" (which means the Model instance), 
 but the "box" itself is still the same instance. 
