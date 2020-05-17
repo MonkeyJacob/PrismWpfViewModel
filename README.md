@@ -1,6 +1,7 @@
-# PrismWpfViewModel
+# PrismWpfViewModel   
 
-###Introduction
+## Introduction  
+
 This project is a set of ViewModel base class designed for WPF , and the whole project is based on Prism.    
 
 In this project, VeiwModel is considered as __a box for Model instance__, and also __a adapter between Model and View__.   
